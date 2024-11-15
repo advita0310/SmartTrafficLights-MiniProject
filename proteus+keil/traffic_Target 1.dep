@@ -1,0 +1,4 @@
+Dependencies for Project 'traffic', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I F:\ARM\RV31\INC-I F:\ARM\CMSIS\Include-I F:\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\traffic.c)(0x672F41AB)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I F:\ARM\RV31\INC-I F:\ARM\CMSIS\Include-I F:\ARM\Inc\Philips-o .\traffic.o --omf_browse .\traffic.crf --depend .\traffic.d)
+I (F:\ARM\Inc\Philips\LPC213X.H)(0x532C1500)
